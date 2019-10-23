@@ -17,3 +17,4 @@
 \bibitem{1}１
 \bibitem{2}２
 \end{thebibliography}
+\end{document}
